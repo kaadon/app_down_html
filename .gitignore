@@ -1,0 +1,9 @@
+config.js
+.idea
+.DS_Store
+.VSCode
+.vs_code
+runtime
+app
+*.apk
+*.mobileconfig
