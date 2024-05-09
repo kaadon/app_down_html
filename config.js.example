@@ -1,6 +1,6 @@
 window.appConfig = {
     logo: '/static/picture/ufutonglogo.png',
-    title: 'UFUTONG',
+    title: 'U付通',
     size:'5',
     // 默认的接口地址
     ios: {
