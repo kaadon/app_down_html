@@ -1,0 +1,15 @@
+window.appConfig = {
+    logo: '/static/picture/ufutonglogo.png',
+    title: 'UFUTONG',
+    size:'5',
+    // 默认的接口地址
+    ios: {
+        version: '1.0.0',
+        url: '/app/U付通.signed.mobileconfig'
+    },
+    // 默认的图片地址
+    android: {
+        version: '1.0.0',
+        url: 'http://localhost:3000/api/v1'
+    }
+}
